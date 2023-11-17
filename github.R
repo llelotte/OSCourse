@@ -1,3 +1,4 @@
+# making a change
 library(usethis)
 use_git_config(
   user.name = "kingsleyshaklebolt", 
